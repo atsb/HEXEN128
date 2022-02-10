@@ -7,7 +7,7 @@ This affects late version 1.1 of HEXEN Other versions can be built if wanted.
 Because having a DOS compatible HEXEN source port that increases the limits beyond what various executable hacks does is useful in playing modern WADS on DOS (where possible).
 
 HEXEN128 is a friendly fork of the amazing restoration work done here:
-https://bitbucket.org/gamesrc-ver-recreation/heretic/src/master/
+https://bitbucket.org/gamesrc-ver-recreation/hexen/src/master/
 
 In short, it is about as vanilla as you will get and is compiled using the correct WATCOM version.
 
