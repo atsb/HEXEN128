@@ -1,0 +1,13 @@
+[1] Hexen: Beyond Heretic retail store beta build
+[2] Hexen: Beyond Heretic 4 level demo beta release
+[3] Hexen: Beyond Heretic early v1.0
+[4] Hexen: Beyond Heretic late v1.0
+[5] Hexen: Beyond Heretic 4 level demo re-release (Watcom 10.0a + TASM 3.1)
+[6] Hexen: Beyond Heretic early v1.1
+[7] Hexen: Beyond Heretic late v1.1
+
+[0] Cancel and quit
+
+* With the exception of the demo re-release, Watcom 10.0 should
+be used for a more accurate code generation, along with TASM 3.1.
+
