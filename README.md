@@ -34,7 +34,7 @@ SAVEGAMESIZE 0x20000 * 16
 
 # Credits
 
-The most important part!  HERETIC128 would not be possible without the folks below.
+The most important part!  HEXEN128 would not be possible without the folks below.
 
 These two with their gamesrc recreation:
 
