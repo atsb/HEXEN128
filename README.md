@@ -49,3 +49,13 @@ Special Mentions:
 PVS
 
 ETTiNGRiNDER <-- pretty much where I got all my HeXen wads from :)
+
+AXDOOMER
+
+# Additional Code
+
+Borrowed code from some awesome people:
+
+Fabian (Crispy Doom)
+
+Julia (Russian Doom)
