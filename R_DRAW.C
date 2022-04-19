@@ -45,8 +45,8 @@ int				dc_yl;
 int				dc_yh;
 fixed_t			dc_iscale;
 fixed_t			dc_texturemid;
-byte			*dc_source;		// first pixel in a column (possibly virtual)
-
+byte				*dc_source;		// first pixel in a column (possibly virtual)
+int 				dc_texheight;
 int				dccount;		// just for profiling
 
 #ifndef __WATCOMC__
